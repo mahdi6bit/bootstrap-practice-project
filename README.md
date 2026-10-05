@@ -9,5 +9,5 @@ https://mahdi6bit.github.io/bootstrap-practice-project/
 screenshot
 <br>
 <br>
-<img src="assets/images/Screenshot.png">
+<img src="assets/images/Screenshot-6BIT-DNS.png">
 
